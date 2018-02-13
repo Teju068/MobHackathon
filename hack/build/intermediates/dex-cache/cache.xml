@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/CDL-DTY3/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1/5e303a03d04e6788dddfa3655272580ae0fc13bb/json-simple-1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="/Users/CDL-DTY3/AndroidStudioProjects/Airasia/app/build/intermediates/transforms/dex/debug/folders/1000/10/json-simple-1.1_457f3d91b364a78d12327e6b94834215dfeb7e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CDL-DTY3/AndroidStudioProjects/Airasia/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/CDL-DTY3/AndroidStudioProjects/Airasia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_af5dc4ab93fc2044ce4067b139ca8db82381995d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/CDL-DTY3/AndroidStudioProjects/Airasia/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="171d2ea65b60f08f8d408dcede0266528a04a7ea">
+        <dex dex="/Users/CDL-DTY3/AndroidStudioProjects/Airasia/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_940377865cf2ab3df061cadac753acc5c6456957/classes.dex" />
+    </item>
+
+</items>

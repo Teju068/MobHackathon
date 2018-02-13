@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Airasia</string>
+    <string name="welcomeheader">Thanks for booking flight Us. Please rate us with your booking experience</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Before_travel">Before Travel Experience</string>
+    <string name="during_travel">During Travel Experience</string>
+    <string name="after_travel">After Travel Experience</string>
+</resources>
